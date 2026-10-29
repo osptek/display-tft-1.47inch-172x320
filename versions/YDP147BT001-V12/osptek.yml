@@ -1,0 +1,10 @@
+id: YDP147BT001-V12
+category: displays
+size: "1.47"
+panel: tft
+resolution: 172x320
+interface: [spi]
+driver: JD9853
+touch: null
+outline: 19.39 x 36.28 mm
+active_area: 17.39 x 32.35 mm

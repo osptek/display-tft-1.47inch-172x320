@@ -1,0 +1,10 @@
+id: YDP147H001-V3
+category: displays
+size: "1.47"
+panel: tft
+resolution: 172x320
+interface: [mcu]
+driver: ST7789
+touch: null
+outline: 19.39 x 36.28 mm
+active_area: 17.3892 x 32.352 mm

@@ -1,0 +1,10 @@
+id: YDP147H009-V2
+category: displays
+size: "1.47"
+panel: tft
+resolution: 172x320
+interface: [spi]
+driver: GC9307
+touch: null
+outline: 19.75 x 36.86 mm
+active_area: 17.65 x 32.83 mm
